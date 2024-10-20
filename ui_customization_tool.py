@@ -2,6 +2,8 @@
 import tkinter as tk
 from tkinter import filedialog
 
+# Written by Idlan bin Hafiz
+
 # Main window setup
 root = tk.Tk()
 root.title("UI Customization Tool")
